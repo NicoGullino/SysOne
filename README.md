@@ -1,4 +1,4 @@
-# Spring Boot with REST API wuth MySQL
+# Spring Boot with REST API with MySQL
 Requires JDK 8, MAVEN 3 and MySQL 5
 # Change DATABASE in the file application.properties
 # If you have una SQL Exception by Time Zone, run this code
